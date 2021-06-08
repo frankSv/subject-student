@@ -1,0 +1,4 @@
+Juan:10.0
+Ronald:9.0
+Juana:10.0
+Estela:9.0
